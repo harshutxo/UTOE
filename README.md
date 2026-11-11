@@ -22,6 +22,31 @@ cross-scale framework with a concrete experimental test.
 | `1753232722188.pdf` | Original 2025 paper, *Theory of Everything and Quantum-Driven Social Evolution* |
 | `Harsh_Goyal_Emergent_Reality_Framework.pdf` | Earlier notes on the emergent reality framework |
 
+
+## SEToE — Shiva–Emergence Theory of Everything
+
+This repository also hosts a distinct philosophical and mathematical research
+programme: **SEToE**. Its foundational ontological proposition is:
+
+\[
+\boxed{\text{Everything} = \text{Emergence}}
+\]
+
+SEToE proposes Shiva as the fundamental reality of emergence. The current
+foundations document records the axioms, candidate mathematical structures,
+dimensional checks, assumptions, and open research questions. These are
+foundational proposals—not a claim that a complete physical Theory of
+Everything or the existence of Shiva has been experimentally proved.
+
+| File | What it is |
+|---|---|
+| [SEToE Mathematical Foundations v1](docs/SEToE-Mathematical-Foundations-v1.md) | Axioms, definitions, candidate equations, limitations and research programme |
+| [Emergence symbol](assets/emergence-symbol.svg) | Vector emblem adapted from the original hand-drawn glyph |
+| [Symbol notes](docs/EMERGENCE-SYMBOL.md) | Meaning and design rationale |
+
+The SEToE programme is kept conceptually distinct from the existing UTOE
+cross-scale framework; the two are not silently merged.
+
 ## The heavy-water experiment in one paragraph
 
 If some mutations come from protons tunneling across DNA base pairs, growing
